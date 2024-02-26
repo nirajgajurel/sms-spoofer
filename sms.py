@@ -62,7 +62,7 @@ files = {
     'text': (None, body),
     'submit': (None, "submit"),
 }
-response = requests.post('https://sms.zspoof.com/api', files=files)
+response = requests.post('https://sms.zspoof.io/api', files=files)
 hprint(C + ' Sending sms to ' + to + ' ...')
 print("")
 print(G + " " + response.text)

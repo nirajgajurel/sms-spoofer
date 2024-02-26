@@ -1,6 +1,6 @@
 # sms-api
 <p align="center">
-<img src="https://call.zspoof.com/icon.png" height="60"><br>
+<img src="https://call.zspoof.io/icon.png" height="60"><br>
 SMS API Spoofer Tool for Sending SMS which whatever sender ID you want.<br>
                                       
 </p>
